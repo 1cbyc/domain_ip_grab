@@ -14,6 +14,7 @@ python3 domain-ip.py --domain-list ~/example_list_of_domains.txt
 
 domain-ip-grab
 
+## IGNORE EVERYTHING TIL THIS POINT
 
 i am updating this anyways, it's been 4 years. let me make this work! 
 
