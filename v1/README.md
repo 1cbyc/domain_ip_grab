@@ -13,8 +13,3 @@ python3 domain-ip.py -domain google.com
 python3 domain-ip.py --domain-list ~/example_list_of_domains.txt
 
 domain-ip-grab
-
-
-i am updating this anyways, it's been 4 years. let me make this work! 
-
-Well, with the current fix i have done. anyone would be able to use this from a web page instead of via cli. although i can still make it work like that.
