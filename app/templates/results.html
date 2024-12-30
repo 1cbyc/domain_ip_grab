@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Domain IP Results</title>
+</head>
+<body>
+    <h1>Results for {{ domain }}</h1>
+    <h3>IPv4 Addresses</h3>
+    <ul>
+        {% for ip in ip_addresses.split(',') %}
+            <li>{{ ip }}</li>
+        {% endfor %}
+    </ul>
+    <h3>IPv6 Addresses</h3>
+    <ul>
+        {% for ip in ipv6_addresses.split(',') %}
+            <li>{{ ip }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
