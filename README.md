@@ -16,4 +16,4 @@ domain-ip-grab
 
 i am updating this anyways, it's been 4 years. let me make this work! 
 
-Well, with the curr
+Well, with the current fix i have done. 
